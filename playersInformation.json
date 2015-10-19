@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Ronny Zimmermann",
+    "status": "broken arm",
+    "mail": "ronny@zimmermann.com",
+    "phone": "0123/234567",
+    "icon": "https://upload.wikimedia.org/wikipedia/bar/9/90/FC_Bayern_M%C3%BCnchen_Logo.svg"
+
+  },
+  {
+    "name": "Clemens Frede",
+    "status": "okay",
+    "mail": "clemens@frede.com",
+    "phone": "0123/234568",
+    "icon": "https://pbs.twimg.com/profile_images/463592932625244160/wkS2Utau_400x400.jpeg"
+  },
+  {
+    "name": "Bernd Leukert",
+    "status": "headache",
+    "mail": "bernd@leukert.com",
+    "phone": "0123/234569",
+    "icon": "https://www.heldenherz.de/images/tsg-1899-hoffenheim-autoaufkleber-logo-42052.jpg"
+  },
+  {
+    "name": "Wieland Schreiner",
+    "status": "okay",
+    "mail": "wieland@schreiner.com",
+    "phone": "0123/234570",
+    "icon": "https://www.heldenherz.de/images/tsg-1899-hoffenheim-autoaufkleber-logo-42052.jpg"
+  }
+]
